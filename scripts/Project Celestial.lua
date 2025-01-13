@@ -1,3 +1,4 @@
+---- Quick Access Brought To You By Get-Exploits ----
 ---- Go Here To Get The Key: https://celestialscript.store/GetKey/ ----
 
 getgenv().PublicKey = "Default" -- Replace "Default" with your key if you own premium.
