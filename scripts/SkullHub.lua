@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://skullhub.netlify.app/",true))()
+loadstring(game:HttpGet("https://skullhub.netlify.app",true))()
